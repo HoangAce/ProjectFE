@@ -104,7 +104,7 @@ nav ul li + li + li {
 }
 .content small {
   color: #555;
-  font-size: italic;
+  font-style: italic;
 }
 .content p {
   color: #333;
